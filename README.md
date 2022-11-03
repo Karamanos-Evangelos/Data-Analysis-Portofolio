@@ -11,39 +11,57 @@ This file contains my Tableau, PowerBi, MySQL and MachineLearning projects
 I have Tableau Public, so my dashboard space is limited and the graphs are not that clear.
 
 
-<h2>Portofolio Project #1 Dashboard</h2>
+<h2>Tableau Portofolio Project #1 Dashboard</h2>
 
 
 ![tableau #1](https://user-images.githubusercontent.com/39276340/199851044-3ae81af0-d54d-402e-b3ff-04a6c2cfc819.png)
 
 
-<h2>Portofolio Project #2 Dashboard</h2>
+<h2>Tableau Portofolio Project #2 Dashboard</h2>
 
 
 ![tableau#2](https://user-images.githubusercontent.com/39276340/199851099-34f48525-683a-43cd-9c84-f4d502d246ac.png)
 
 
-<h2>Portofolio Project #3 Dashboard</h2>
+<h2>Tableau Portofolio Project #3 Dashboard</h2>
 
 
 ![tableau3](https://user-images.githubusercontent.com/39276340/199851209-32623c2b-2008-4031-b9df-77e7f97da599.png)
 
 
-<h2>Portofolio Project #4 Dashboard</h2>
+<h2>Tableau Portofolio Project #4 Dashboard</h2>
 
 
 ![tableau#4](https://user-images.githubusercontent.com/39276340/199851227-127c9f22-17de-4ee7-b219-cade6d3f87a4.png)
 
 
 
-<h2>Portofolio Project #5 Dashboard</h2>
+<h2>Tableau Portofolio Project #5 Dashboard</h2>
 
 
 ![tableau#5](https://user-images.githubusercontent.com/39276340/199851245-d34d69d5-2563-4283-8c21-82ff10022105.png)
 
 
-<h2>Portofolio Project #6 Dashboard</h2>
+<h2>Tableau Portofolio Project #6 Dashboard</h2>
 
 
 ![tableau#6](https://user-images.githubusercontent.com/39276340/199851261-cc9dc660-30d1-4797-860e-87f060717b35.png)
 
+
+<h1>PowerBI Projects</h1>
+
+
+<h2>PowerBI Portofolio Project #1 Dashboard</h2>
+
+For this project, I have uploaded a thorough report with the steps I have taken, named "PowerBI Project #1 Report.pdf".
+
+I have created the following dashboard
+
+
+![17_1 Dashboard](https://user-images.githubusercontent.com/39276340/199853138-dac7fb7c-4b55-4ef3-aa49-a576e253cbfc.png)
+
+
+Clicking the "Insights" button will result to this dashboard
+
+
+![17_2 Insights](https://user-images.githubusercontent.com/39276340/199853193-e390428c-bff5-478e-8aa2-95f9b29e2b94.png)
