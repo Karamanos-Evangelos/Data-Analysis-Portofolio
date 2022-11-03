@@ -89,4 +89,4 @@ Clicking the "Insights" button will result to this dashboard
 
 <h1>MySQL Project</h1>
 
-The datasets used for my MySQL project are uploaded alongside with the source code.
+The datasets used for my MySQL project ("CovidDeathsProjectDataset", "CovidVaccinationProjectDataset", the latter being a .zip file because it was too large to upload on github) are uploaded alongside with the source code. ("MySQLCovidPortofolioProject1")
