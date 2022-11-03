@@ -84,3 +84,9 @@ Clicking the "Insights" button will result to this dashboard
 
 ![powerbi#4](https://user-images.githubusercontent.com/39276340/199853560-6bf6ac4f-682a-46f2-a0b6-838c1365a087.png)
 
+
+
+
+<h1>MySQL Project</h1>
+
+The datasets used for my MySQL project are uploaded alongside with the source code.
