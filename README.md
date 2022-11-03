@@ -65,3 +65,22 @@ Clicking the "Insights" button will result to this dashboard
 
 
 ![17_2 Insights](https://user-images.githubusercontent.com/39276340/199853193-e390428c-bff5-478e-8aa2-95f9b29e2b94.png)
+
+
+<h2>PowerBI Portofolio Project #2 Dashboard</h2>
+
+
+![powerbi#2](https://user-images.githubusercontent.com/39276340/199853445-bcc33435-e8f5-4ed0-b8ec-840a34a133de.png)
+
+
+<h2>PowerBI Portofolio Project #3 Dashboard</h2>
+
+
+![powerbi#3](https://user-images.githubusercontent.com/39276340/199853534-5479c2d3-8328-4872-a1e5-a36f79964103.png)
+
+
+<h2>PowerBI Portofolio Project #4 Dashboard</h2>
+
+
+![powerbi#4](https://user-images.githubusercontent.com/39276340/199853560-6bf6ac4f-682a-46f2-a0b6-838c1365a087.png)
+
