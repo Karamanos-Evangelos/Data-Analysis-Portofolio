@@ -90,3 +90,9 @@ Clicking the "Insights" button will result to this dashboard
 <h1>MySQL Project</h1>
 
 The datasets used for my MySQL project ("CovidDeathsProjectDataset", "CovidVaccinationProjectDataset", the latter being a .zip file because it was too large to upload on github) are uploaded alongside with the source code. ("MySQLCovidPortofolioProject1")
+
+
+
+<h1>Machine Learning Projects</h1>
+
+My Machine Learning projects are hosted on Google Colab, but a copy of each is at the main branch. ("Portofolio Customer Segmentation.ipynb", "Portofolio Sentiment Analysis.ipynb", "Portofolio Sales Prediction.ipynb")
