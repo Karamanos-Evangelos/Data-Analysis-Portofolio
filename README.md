@@ -4,7 +4,7 @@
 
 <h1>Tableau Projects</h1>
 
-Link to Tableau Public: https://public.tableau.com/app/profile/.45738430
+<h2>Link to Tableau Public: https://public.tableau.com/app/profile/.45738430 </h2>
 
 I have Tableau Public, so my dashboard space is limited and the graphs are not that clear.
 
