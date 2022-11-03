@@ -45,3 +45,5 @@ I have Tableau Public, so my dashboard space is limited and the graphs are not t
 ![tableau#6](https://user-images.githubusercontent.com/39276340/199851261-cc9dc660-30d1-4797-860e-87f060717b35.png)
 
 
+
+[PowerBI Portofolio Project #1.pdf](https://github.com/vgls21/Data-Analysis-Portofolio/files/9933572/PowerBI.Portofolio.Project.1.pdf)
